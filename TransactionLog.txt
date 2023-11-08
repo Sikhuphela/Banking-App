@@ -1,0 +1,4 @@
+Langa,Deposit: +$5000.0,5000.0
+Langa,Withdrawal: -$2000.0,3000.0
+Mane,Deposit: +R5000.0,5000.0
+Kyle,Deposit: +R5000.0,5000.0
